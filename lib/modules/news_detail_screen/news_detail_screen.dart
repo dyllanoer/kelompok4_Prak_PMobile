@@ -32,7 +32,7 @@ class _NewsDetailScreenState extends State<NewsDetailScreen> {
             print(likeCount);
           });
         },
-        backgroundColor: Colors.orange,
+        backgroundColor: Colors.red,
         child: Icon(Icons.favorite),
       ),
       body: Column(
